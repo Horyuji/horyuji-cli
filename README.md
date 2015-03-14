@@ -11,7 +11,7 @@ $ npm install -g horyuji-cli
 ## Usage
 
 ```
-# install horyuji scaffolding boilerplate and Initial setting of the project 
+# install horyuji scaffolding boilerplate and initial setting of the project 
 $ ho init
 
 # mixin your boilerplate into horyuji
