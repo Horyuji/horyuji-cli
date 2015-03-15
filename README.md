@@ -3,7 +3,6 @@ Horyuji's command line interface
 
 ## Install
 
-[TODO]
 ```
 $ npm install -g horyuji-cli
 ```
@@ -11,10 +10,10 @@ $ npm install -g horyuji-cli
 ## Usage
 
 ```
-# install horyuji scaffolding boilerplate and initial setting of the project 
+# install horyuji scaffolding boilerplate and initial setting of the project
 $ ho init
 
-# mixin your boilerplate into horyuji
+# [TODO]mixin your boilerplate into horyuji
 $ ho inistall <package>
 ```
 
